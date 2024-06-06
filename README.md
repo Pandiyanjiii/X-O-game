@@ -22,3 +22,6 @@ How to Play
     3.To place a mark, a player enters the row and column number (1, 2, or 3).
     4.The game checks for a win or draw after each turn.
     5.The game ends when a player wins or the board is full (draw).
+    main menu
+    ![Screenshot (154)](https://github.com/Pandiyanjiii/X-O-game/assets/106813106/d7b29eca-2b9e-4d8a-a6d3-c3e19f9f8d5f)
+
