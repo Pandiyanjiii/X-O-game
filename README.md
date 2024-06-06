@@ -34,6 +34,8 @@ This is a simple Tic-Tac-Toe (also known as X/O) game implemented in Java. The g
 
 
 'Human Players Win Statment:'
+![ranga](https://github.com/Pandiyanjiii/X-O-game/assets/106813106/58e710c7-d59f-405a-a56d-ec65470d69bc)
+
 'AI Players Win Statment:'
 'Draw Statment:'
  
