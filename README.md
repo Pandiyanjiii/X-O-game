@@ -1,9 +1,10 @@
-""Tic-Tac-Toe Game""
+Tic-Tac-Toe Game:
 
-Overview
+Overview:
 
 This is a simple Tic-Tac-Toe (also known as X/O) game implemented in Java. The game can be played between two players on the same machine. The first player uses 'X' and the second player uses 'O'. The game provides a text-based interface in the console.
-Features
+
+Features:
 
     1.Two-player mode
     2.Text-based interface
@@ -11,11 +12,11 @@ Features
     4.Win detection
     5.Draw detection
 
-Requirements
+Requirements:
 
     Java Development Kit (JDK) 8 or higher.
 
-How to Play
+How to Play:
 
     1.The game starts with an empty 3x3 board.
     2.Players take turns to place their mark (X or O) on the board.
