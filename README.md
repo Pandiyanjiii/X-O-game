@@ -24,9 +24,9 @@ This is a simple Tic-Tac-Toe (also known as X/O) game implemented in Java. The g
     4.The game checks for a win or draw after each turn.
     5.The game ends when a player wins or the board is full (draw).
   
-
+      ![1](https://github.com/Pandiyanjiii/X-O-game/assets/106813106/5eae21b9-e1bf-4f7f-9ebd-6bd9b1403bac)
 'Display The Board:'
-       ![1](https://github.com/Pandiyanjiii/X-O-game/assets/106813106/5eae21b9-e1bf-4f7f-9ebd-6bd9b1403bac)
+       
 
 'Choose The  Row and Coloum And Marks X or O:'
 
