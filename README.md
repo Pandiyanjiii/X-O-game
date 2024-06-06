@@ -30,6 +30,9 @@ This is a simple Tic-Tac-Toe (also known as X/O) game implemented in Java. The g
 
 
 'Choose The  Row and Coloum And Marks X or O:'
+![2](https://github.com/Pandiyanjiii/X-O-game/assets/106813106/124ab085-bc2c-4f48-a038-084d2287924d)
+
+
 'Human Players Win Statment:'
 'AI Players Win Statment:'
 'Draw Statment:'
