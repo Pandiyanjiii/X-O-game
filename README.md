@@ -26,8 +26,9 @@ This is a simple Tic-Tac-Toe (also known as X/O) game implemented in Java. The g
   
      
 'Display The Board:'
-                           
+![dis](https://github.com/Pandiyanjiii/X-O-game/assets/106813106/d6d1aaaa-f17f-4683-b060-c4929e179c0c)
 
+                           
 
 'Choose The  Row and Coloum And Marks X or O:'
                        
